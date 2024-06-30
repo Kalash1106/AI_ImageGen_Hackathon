@@ -4,7 +4,7 @@ This repository consists of all the files used for the AI Image Masters Hackatho
 ## Repo Structure & Walkthrough
 - The folder [imgs](https://github.com/Kalash1106/AI_ImageGen_Hackathon/tree/main/imgs) consists of all the images used for finetuning the model using dreambooth in mixed-precision.
 - The file [install.sh](https://github.com/Kalash1106/AI_ImageGen_Hackathon/blob/main/install.sh) consists of the shell code to install the dependencies for this project.
-- The file [sd3.ipynb](https://github.com/Kalash1106/AI_ImageGen_Hackathon/blob/main/sd3.ipynb) gives a tutorial for using the SD3 medium model for inference.
+- The file [sd.ipynb](https://github.com/Kalash1106/AI_ImageGen_Hackathon/blob/main/sd.ipynb) gives a tutorial for using the SD3 medium model for inference.
 - The file [train.sh](https://github.com/Kalash1106/AI_ImageGen_Hackathon/blob/main/train.sh) consists of the shell code to finetune the model.
 
 ## Setup
